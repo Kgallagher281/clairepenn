@@ -1,0 +1,31 @@
+body{
+	overflow-y: scroll;
+	font-size: 20px;
+	background-size: cover;
+
+}
+
+.nav_wrapper{
+	text-align: center;
+}
+
+
+li {
+	text-align: center;
+	display: inline-block;
+}
+
+a{
+text-decoration: none;
+padding-right: 30px;
+padding-left: 30px;
+color: green;
+}
+
+.main{
+	height: 80%;
+	width: 100%;
+	position: fixed;
+
+
+}
